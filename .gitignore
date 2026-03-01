@@ -1,0 +1,15 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+.build/
+.swiftpm/
+Pods/
+Carthage/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+.env
